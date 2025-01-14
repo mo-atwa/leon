@@ -86,6 +86,7 @@ body {
 }
 .header .links {
   position: relative;
+  cursor: pointer;
 }
 .header .links .icon {
   width: 30px;
@@ -124,9 +125,14 @@ body {
   right: 0;
   top: calc(100% + 15px);
   min-width: 200px;
-  display: none;
   border-radius: 5px;
   z-index: 1;
+}
+.header .links.display ul {  
+  display: none;
+}
+.header .links.play ul{
+  display: block;
 }
 .header .links ul::before {
   content: "";
@@ -308,6 +314,10 @@ body {
   max-width: 350px;
   margin: auto;
   box-shadow: 0px 4px 20px 0px #0000002e;
+  transition: all 0.3s ease-in-out;
+}
+.proto-col .col.hidden {
+  display: none;
 }
 .proto-col .col .img {
   overflow: hidden;
@@ -337,10 +347,6 @@ body {
 }
 .proto-col .col p {
   padding-left: 10px;
-}
-.proto-two {
-  margin-top: 40px;
-  display: none;
 }
 .portfolio .div-button {
   width: 100%;
