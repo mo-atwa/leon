@@ -1,6 +1,33 @@
-# html-and-css-template-one
-My first project with HTML and CSS
+# Leon - Creative & Minimal Agency Template 🎨  
 
-Website link: https://leon-atwa.netlify.app
+A modern and minimal one-page agency template built using **HTML, CSS, and JavaScript**. This design is based on a **PSD template** and has been converted into a fully responsive web page.  
 
-GitHub: https://mo-atwa.github.io/leon
+🚀 **Live Demo:** [preview](https://leon-atwa.netlify.app)
+
+📂 **GitHub Repository:** [Here](https://mo-atwa.github.io/leon)
+
+## ✨ Features  
+- 🎨 Clean and modern UI  
+- 📱 Fully responsive design  
+- ⚡ Smooth animations and transitions  
+- 🖼️ Portfolio showcase section  
+- 📩 Contact form integration  
+
+## 🛠 Technologies Used  
+- HTML5 🏗️  
+- CSS3 🎨  
+- JavaScript (ES6+) 🚀  
+
+------
+
+## 🌟 My Portfolio  
+
+Hello! I'm **Mohamed Atwa**, a Front-End Developer passionate about building modern web interfaces using React.js.  
+
+🚀 **Live Demo:** [Preview](https://atwa-portfolio.netlify.app)  
+
+📂 **GitHub Repository:** [GitHub](https://github.com/mo-atwa/My-Portfolio)  
+
+📄 **My CV:** [View Here](https://drive.google.com/file/d/1oH9P8n6Gb4Hv0qNAXYkjiC-fvSW14jEb/view?usp=sharing)  
+
+Feel free to explore the project and contribute! 😊  
