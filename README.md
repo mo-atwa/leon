@@ -22,7 +22,7 @@ A modern and minimal one-page agency template built using **HTML, CSS, and JavaS
 
 ## 🌟 My Portfolio  
 
-Hello! I'm **Mohamed Atwa**, a Front-End Developer passionate about building modern web interfaces using React.js.  
+Hey! I'm Mohamed Atwa, a Front-End Developer with a passion for crafting sleek and responsive web applications using React.js. I'm always eager to learn and take on new challenges.  
 
 🚀 **Live Demo:** [Preview](https://atwa-portfolio.netlify.app)  
 
